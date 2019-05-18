@@ -1,0 +1,12 @@
+*~
+*#
+
+.Rhistory
+.Rproj.user
+
+# Backup files
+*-BKUP
+
+.#*
+
+*.gcode
