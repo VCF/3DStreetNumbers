@@ -1,6 +1,6 @@
 # 3D Printed Street Sign Numbers
 
-I needed to street numbers for both my driveway and house, 15 in
+I needed street numbers for both my driveway and house, 15 in
 total. At big-box hardware stores these things are _pricey_. This
 seemed like a perfect use of a 3D printer; Cura estimates that a 3"
 high number "8" will take 17 grams of ABS and cost `$0.34`.
