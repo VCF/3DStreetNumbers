@@ -9,7 +9,8 @@ All characters are defined using SCAD, such that you can change the
 size and/or thickness of the characters (default 3" high) and
 hopefully the screw holes will be automatically relocated to the
 appropriate place. You can also change the font, but you'll almost
-certainly have to reposition the screw holes.
+certainly have to reposition the screw holes. The holes have a
+bevel designed to fit #6 sheet metal screws.
 
 * Default Font: Open Sans Extrabold by Steve Matteson
   * https://fonts.google.com/specimen/Open+Sans
