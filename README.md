@@ -3,7 +3,7 @@
 I needed to street numbers for both my driveway and house, 15 in
 total. At big-box hardware stores these things are _pricey_. This
 seemed like a perfect use of a 3D printer; Cura estimates that a 3"
-high number "8" will take 17 grams of PLA and cost `$0.34`.
+high number "8" will take 17 grams of ABS and cost `$0.34`.
 
 All characters are defined using SCAD, such that you can change the
 size and/or thickness of the characters (default 3" high) and
