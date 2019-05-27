@@ -16,6 +16,9 @@ certainly have to reposition the screw holes.
 * Designed with OpenSCAD
   * https://www.openscad.org/
 
+Sample of characters:
+![Sample in Cura](CuraPreview.png)
+
 Note: [SCAD is not a programming language][NoProg]. This means if you
 try someting like `scaledVal = scaledVal * scalingFactor` you'll end
 up frustrated and 20 minutes poorer.
