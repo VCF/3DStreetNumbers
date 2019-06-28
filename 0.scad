@@ -35,7 +35,7 @@ fName="Open Sans Extrabold";
 // Thin floor below holes. My printer was
 // struggling to have the hole 'border' stick
 // to the stage. Just drill/screw thru it.
-holeFloor=0.1; 
+holeFloor=0.15; 
 
 // ==========================================
 // ===== All values below are auto-calculated
